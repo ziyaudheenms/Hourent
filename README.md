@@ -90,8 +90,6 @@
 
 Explore the intuitive interfaces and user flows built into the platform:
 
-## 🖼️ UI Gallery
-
 <table width="100%">
   <tr>
     <td width="50%" align="center">
