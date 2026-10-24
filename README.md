@@ -86,6 +86,34 @@
 
 ---
 
+## 🖼️ UI Walkthrough & Image Gallery
+
+Explore the intuitive interfaces and user flows built into the platform:
+
+## 🖼️ UI Gallery
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+<img width="752" height="403" alt="Screenshot 2026-10-24 083322" src="https://github.com/user-attachments/assets/e8550ae1-90e1-4678-8e9b-58ab98ba45de" />
+    </td>
+    <td width="50%" align="center">
+      <img width="752" height="377" alt="Screenshot 2026-10-24 083404" src="https://github.com/user-attachments/assets/852df3be-fafa-4e3c-84a8-2079ff7fe8d6" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><br>
+     <img width="747" height="386" alt="Screenshot 2026-10-24 083459" src="https://github.com/user-attachments/assets/500c9a21-9e23-49e7-8331-9aabfc39499c" />
+    </td>
+    <td width="50%" align="center"><br>
+    <img width="750" height="380" alt="Screenshot 2026-10-24 083423" src="https://github.com/user-attachments/assets/c7d87ec8-3f00-4df0-b5b5-354a9fcbe452" />
+    </td>
+  </tr>
+ 
+</table>
+
+> 💡 **Tip:** Click on any image or preview section in your repository releases to view full-resolution screenshots of the UI.
+
 ## 📦 Getting Started
 
 ### Prerequisites
