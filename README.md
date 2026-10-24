@@ -1,134 +1,101 @@
-# Hourent: Your Virtual Transparent Agent for Property Rentals
+<div align="center">
 
-![Hourent Logo](https://img.icons8.com/ios-filled/100/000000/home.png)
+# Hourent 🏠
+### *Your Virtual Transparent Agent for Property Rentals*
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Full--Stack%20Web%20App-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" />
+</p>
+
+</div>
+
+<br>
+
+<!-- macOS Safari Spotlight Window Frame -->
+<div align="center">
+  <img width="1032" height="507" alt="Screenshot 2026-10-24 081917" src="https://github.com/user-attachments/assets/9aeca4f6-0909-410d-a19f-323c5d9f0346" />
+</div>
+
+<br>
 
 ---
 
 ## 📌 Overview
 
-**Hourent** is your dedicated, transparent platform for hassle-free property rentals. Acting as a virtual agent, Hourent connects property owners directly with renters—no middlemen, no hidden fees. Enjoy a seamless experience whether you’re listing, searching, or managing rental properties.
+**Hourent** is a dedicated, transparent platform for hassle-free property rentals. Acting as your virtual agent, Hourent connects property owners directly with renters—eliminating middlemen and hidden fees. Whether you're listing a house, searching for short-term stays, or managing long-term leases, Hourent delivers a seamless, direct-connect experience.
 
 ---
 
-## ✨ Features
+## 📺 Live Demo & Preview
 
-- **Flexible Rental Options**  
-    Short-term or long-term? Hourent supports both, with dedicated sections for each.
-
-- **Advanced Filtering & Sorting**  
-    Find your perfect property using filters for:
-    - Number of rooms & bathrooms
-    - Rental rates
-    - Amenities (parking, pet-friendly, AC)
-    - Property type (house, apartment, studio, cabin)
-
-- **Direct Communication**  
-    Send a request to connect with owners. Once accepted, get their phone and WhatsApp numbers for direct chat.
-
-- **Intuitive Inbox System**  
-    Manage all your requests in one place. Accepted requests are highlighted for quick access.
-
-- **Availability Check**  
-    Instantly send an email to owners with your details and preferred dates to check availability.
-
-- **Detailed Listings**  
-    Every property includes:
-    - Full address & description
-    - High-quality photos (interior & exterior)
-    - Exact Google Maps location
+<p align="center">
+  <a href="https://lnkd.in/p/gsP7Zbk9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn_Demo-Watch_Video_Walkthrough-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br><br>
+  <i>Click the badge above to watch the full walkthrough demo of Hourent in action!</i>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Key Features
 
-- **Frontend:** Next.js & Tailwind CSS  
-    _Modern, responsive, and stylish UI_
-
-- **Backend:** Python Django & Django Rest Framework  
-    _Robust, scalable API_
-
-- **Database:** PostgreSQL  
-    _Efficient, reliable data storage_
-
----
-
-## 🚀 Get Started
-
-1. **Clone the repo:**  
-     ```bash
-     git clone https://github.com/yourusername/hourent.git
-     ```
-
-2. **Install dependencies:**  
-     - Frontend:  
-         ```bash
-         cd frontend
-         npm install
-         ```
-     - Backend:  
-         ```bash
-         cd backend
-         pip install -r requirements.txt
-         ```
-
-3. **Run the app:**  
-     - Frontend:  
-         ```bash
-         npm run dev
-         ```
-     - Backend:  
-         ```bash
-         python manage.py runserver
-         ```
+<table width="100%">
+  <tr>
+    <th width="50%">🏡 Property Search & Discovery</th>
+    <th width="50%">💬 Direct Communication & Messaging</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Flexible Rentals:</b> Dedicated options for both short-term stays and long-term property leases.<br><br>
+      <b>Advanced Filtering:</b> Filter properties by rate, room count, amenities (parking, pets, AC), and category (apartment, house, studio, cabin).
+    </td>
+    <td>
+      <b>Owner Direct-Connect:</b> Send connection requests to owners. Once accepted, unlock direct phone & WhatsApp contact details.<br><br>
+      <b>Intuitive Inbox:</b> Centralized inbox to manage booking requests with visual indicators for accepted inquiries.
+    </td>
+  </tr>
+  <tr>
+    <th width="50%">📅 Availability & Detailed Listings</th>
+    <th width="50%">📍 Location Integration</th>
+  </tr>
+  <tr>
+    <td>
+      <b>Instant Availability Check:</b> Send direct availability checks with preferred dates and guest details.<br><br>
+      <b>Rich Media Galleries:</b> Full property breakdown with high-res interior/exterior photos and full address specs.
+    </td>
+    <td>
+      <b>Google Maps Integration:</b> Precise pin-drop locations on interactive maps for every listed property.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Contributing
+## 🛠️ Technology Stack
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,python,django,postgres,git,github,postman,vercel&theme=dark" />
+</p>
+
+* **Frontend:** Next.js (React Framework), Tailwind CSS (Responsive Modern UI)
+* **Backend:** Python, Django REST Framework (DRF) — Scalable RESTful Architecture
+* **Database:** PostgreSQL (Relational Data & Property Querying)
 
 ---
 
-## 📫 Contact
+## 📦 Getting Started
 
-Questions? Suggestions?  
-Email: [support@hourent.com](mailto:support@hourent.com)
+### Prerequisites
+* Node.js (v18+)
+* Python (v3.10+)
+* PostgreSQL instance running locally or hosted
 
----
+### Installation & Local Setup
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/yourusername/hourent.git](https://github.com/yourusername/hourent.git)
+   cd hourent
