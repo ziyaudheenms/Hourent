@@ -125,7 +125,7 @@ Explore the intuitive interfaces and user flows built into the platform:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/hourent.git](https://github.com/yourusername/hourent.git)
+   git clone [[https://github.com/yourusername/hourent.git](https://github.com/yourusername/hourent.git)](https://github.com/ziyaudheenms/Hourent.git)
    cd hourent
 
   2. **Frontend**
