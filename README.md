@@ -127,3 +127,10 @@ Explore the intuitive interfaces and user flows built into the platform:
    ```bash
    git clone [https://github.com/yourusername/hourent.git](https://github.com/yourusername/hourent.git)
    cd hourent
+
+  2. **Frontend**
+   ```bash
+  cd frontend
+  npm install
+  npm run dev
+
